@@ -1,11 +1,16 @@
 _repo: San-Salvador_69594
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69594-h/images/cover.jpg
 creator:
   author:
     agent_name: Tincker, Mary Agnes
     gutenberg_agent_id: '55337'
     url: http://www.gutenberg.org/2009/agents/55337
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69594#San-Salvador
 gutenberg_issued: '2022-12-20'
 identifiers:
   gutenberg: '69594'
